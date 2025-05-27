@@ -1,3 +1,5 @@
 models/weights/resnet_model_ep15.pt
 models/weights/resnet_model_ep25.pt
 models/weights/resnet_model_ep35.pt
+logs/http.log
+logs/predictor.log
