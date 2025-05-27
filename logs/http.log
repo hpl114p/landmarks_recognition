@@ -1,0 +1,5 @@
+2025-05-11 22:18:49,632 - B:\PROJECTS\LANDMARK_PROJECT\api_landmarks\middleware\http.py - INFO - 127.0.0.1 - "GET /openapi.json 1.1" 200 0.01s
+2025-05-11 22:19:02,885 - B:\PROJECTS\LANDMARK_PROJECT\api_landmarks\middleware\http.py - INFO - 127.0.0.1 - "POST /predict 1.1" 200 0.73s
+2025-05-12 15:36:10,865 - B:\PROJECTS\LANDMARK_PROJECT\api_landmarks\middleware\http.py - INFO - 127.0.0.1 - "GET /docs 1.1" 200 0.01s
+2025-05-12 15:36:11,256 - B:\PROJECTS\LANDMARK_PROJECT\api_landmarks\middleware\http.py - INFO - 127.0.0.1 - "GET /openapi.json 1.1" 200 0.02s
+2025-05-12 15:37:21,927 - B:\PROJECTS\LANDMARK_PROJECT\api_landmarks\middleware\http.py - INFO - 127.0.0.1 - "POST /predict 1.1" 200 1.65s
