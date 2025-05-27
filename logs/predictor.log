@@ -29,3 +29,9 @@
 2025-05-10 15:45:54,366 - B:\PROJECTS\LANDMARK_PROJECT\api_landmarks\models\landmark_predictor.py - INFO - Predicted Prob: 0.088316 -  Predicted ID: 169 -  Predicted Class: 107747
 2025-05-10 15:46:05,378 - B:\PROJECTS\LANDMARK_PROJECT\api_landmarks\models\landmark_predictor.py - INFO - Predictor name: ResNet
 2025-05-10 15:46:05,378 - B:\PROJECTS\LANDMARK_PROJECT\api_landmarks\models\landmark_predictor.py - INFO - Predicted Prob: 0.101175 -  Predicted ID: 169 -  Predicted Class: 107747
+2025-05-11 22:18:48,670 - B:\PROJECTS\LANDMARK_PROJECT\api_landmarks\models\landmark_predictor.py - INFO - Starting Model Serving
+2025-05-11 22:19:02,881 - B:\PROJECTS\LANDMARK_PROJECT\api_landmarks\models\landmark_predictor.py - INFO - Predictor name: ResNet
+2025-05-11 22:19:02,882 - B:\PROJECTS\LANDMARK_PROJECT\api_landmarks\models\landmark_predictor.py - INFO - Predicted Prob: 0.808186 -  Predicted ID: 196 -  Predicted Class: 73542
+2025-05-12 15:36:09,974 - B:\PROJECTS\LANDMARK_PROJECT\api_landmarks\models\landmark_predictor.py - INFO - Starting Model Serving
+2025-05-12 15:37:21,922 - B:\PROJECTS\LANDMARK_PROJECT\api_landmarks\models\landmark_predictor.py - INFO - Predictor name: ResNet
+2025-05-12 15:37:21,923 - B:\PROJECTS\LANDMARK_PROJECT\api_landmarks\models\landmark_predictor.py - INFO - Predicted Prob: 0.964844 -  Predicted ID: 196 -  Predicted Class: 73542
